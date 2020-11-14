@@ -1,1 +1,1 @@
-# Machine_Learning_LNU
+# Repo with labs for ML at LNU
